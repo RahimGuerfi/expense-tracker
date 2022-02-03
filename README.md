@@ -15,7 +15,7 @@ The app allows you to set budgets for various categories, such as food and trans
 
 It then sums your spending in each category to calculate the amount of money that remains to be spent.
 
-> ![Diagram]()
+> ![Diagram](https://raw.githubusercontent.com/RahimGuerfi/expense-tracker/main/public/component_diagram.png)
 
 To help you to understand how the data of the application works, consider an example of the Redux store’s state:
 
